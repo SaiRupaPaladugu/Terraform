@@ -1,4 +1,5 @@
-1) Created codespace in GitHub installed terraform and amazon cli along with requited plugins terraform, hashicorp
+Without "modules"
+1) Created codespace in GitHub and installed terraform,amazon cli along with requited plugins terraform, hashicorp inside VSCode of codespace.
 2) Created main.tf with the provider as AWS and added steps for EC2 instance creation with "instance_type" and "ami_value" 
 3) created separate files for variables "variables.tf"
 4) Provided value of variables inside terraform.tfvars
